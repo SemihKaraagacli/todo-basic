@@ -1,0 +1,14 @@
+C:\Projects\TodoApp\bin\Debug\net8.0\BasicTodo.exe
+C:\Projects\TodoApp\bin\Debug\net8.0\BasicTodo.deps.json
+C:\Projects\TodoApp\bin\Debug\net8.0\BasicTodo.runtimeconfig.json
+C:\Projects\TodoApp\bin\Debug\net8.0\BasicTodo.dll
+C:\Projects\TodoApp\bin\Debug\net8.0\BasicTodo.pdb
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.AssemblyInfoInputs.cache
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.AssemblyInfo.cs
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.csproj.CoreCompileInputs.cache
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.dll
+C:\Projects\TodoApp\obj\Debug\net8.0\refint\BasicTodo.dll
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.pdb
+C:\Projects\TodoApp\obj\Debug\net8.0\BasicTodo.genruntimeconfig.cache
+C:\Projects\TodoApp\obj\Debug\net8.0\ref\BasicTodo.dll
